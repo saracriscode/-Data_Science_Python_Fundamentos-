@@ -1,5 +1,8 @@
-# -Data_Science_Python_Fundamentos-
+# Python Fundamentos Para Análise de Dados 3.0
+
+Data Science Academy - Repositório dos Arquivos do Curso Gratuito Python Fundamentos Para Análise de Dados, Versão 3.0.
+
+https://www.datascienceacademy.com.br
 
 
-Este curso Fundamentos de Python ofertado pelo Data Science contém atividades, exercíos para fixar os conteúdos de linguagem de programação. Ao final do curso, será realizado um projeto.
 
